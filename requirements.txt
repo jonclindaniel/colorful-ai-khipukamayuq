@@ -1,0 +1,7 @@
+# installed and tested in a Python 3.10 Anaconda environment
+datasets
+transformers==4.18.0
+sentencepiece
+umap-learn
+hdbscan
+optuna
